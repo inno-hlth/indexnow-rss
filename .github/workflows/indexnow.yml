@@ -1,0 +1,40 @@
+name: IndexNow RSS
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes; free on public repos (GitHub may delay runs)
+  workflow_dispatch:          # adds a "Run workflow" button for manual runs
+
+permissions:
+  contents: write             # needed to save the state/ folder back to the repo
+
+concurrency:
+  group: indexnow
+  cancel-in-progress: false   # never run two at once
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Submit new articles to IndexNow
+        run: python indexnow_rss.py --config config.json
+        # Keys come from repo secrets (Settings > Secrets and variables > Actions).
+        # Names must match "key_env" in config.json.
+        env:
+          SITE_ONE_INDEXNOW_KEY: ${{ secrets.SITE_ONE_INDEXNOW_KEY }}
+          SITE_TWO_INDEXNOW_KEY: ${{ secrets.SITE_TWO_INDEXNOW_KEY }}
+          SITE_THREE_INDEXNOW_KEY: ${{ secrets.SITE_THREE_INDEXNOW_KEY }}
+
+      - name: Save submission history
+        if: always()
+        run: |
+          git config user.name "indexnow-bot"
+          git config user.email "indexnow-bot@users.noreply.github.com"
+          git add state/
+          git diff --cached --quiet || (git commit -m "Update IndexNow state [skip ci]" && git push)
