@@ -1,0 +1,22 @@
+{
+  "host": "healthexec.com",
+  "site": "healthexec",
+  "submitted": {
+    "https://healthexec.com/topics/healthcare-management/healthcare-policy/1m-americans-begin-receiving-aca-refund-checks-promised-trump-administration": {
+      "date": "2026-10-01T23:24:38+00:00",
+      "submitted_at": "2026-10-02T19:53:59.066029+00:00"
+    },
+    "https://healthexec.com/topics/healthcare-management/healthcare-staffing/long-covid-28-healthcare-workers-experience-symptoms-after-six-months-study-finds": {
+      "date": "2026-09-30T22:07:58+00:00",
+      "submitted_at": "2026-10-02T19:53:59.066029+00:00"
+    },
+    "https://healthexec.com/topics/healthcare-management/legal-news/medicare-advantage-insurer-accused-upcoding-whistleblower-settles-false-claims-act-lawsuit-225m": {
+      "date": "2026-10-01T23:30:23+00:00",
+      "submitted_at": "2026-10-02T19:53:59.066029+00:00"
+    },
+    "https://healthexec.com/topics/patient-care/care-delivery/researchers-hospitals-only-transfer-patients-if-theres-no-other-path-good-outcome": {
+      "date": "2026-10-01T00:58:39+00:00",
+      "submitted_at": "2026-10-02T19:53:59.066029+00:00"
+    }
+  }
+}
