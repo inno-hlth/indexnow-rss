@@ -1,0 +1,27 @@
+{
+  "defaults": {
+    "max_age_hours": 48,
+    "resubmit_updates": true,
+    "retain_days": 30
+  },
+  "sites": [
+    {
+      "name": "cardiovascularbusiness",
+      "host": "cardiovascularbusiness.com",
+      "key_env": "SITE_ONE_INDEXNOW_KEY",
+      "feeds": ["https://cardiovascularbusiness.com/rss.xml"]
+    },
+    {
+      "name": "healthexec",
+      "host": "healthexec.com",
+      "key_env": "SITE_TWO_INDEXNOW_KEY",
+      "feeds": ["https://healthexec.com/rss.xml"]
+    },
+    {
+      "name": "radiologybusiness",
+      "host": "radiologybusiness.com",
+      "key_env": "SITE_THREE_INDEXNOW_KEY",
+      "feeds": ["https://radiologybusiness.com/rss.xml"]
+    }
+  ]
+}
