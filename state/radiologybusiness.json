@@ -2,6 +2,10 @@
   "host": "radiologybusiness.com",
   "site": "radiologybusiness",
   "submitted": {
+    "https://radiologybusiness.com/topics/artificial-intelligence/ai-solution-can-help-nearly-1-5-patients-avoid-prostate-biopsies-radnet-says": {
+      "date": "2026-10-09T06:55:56+00:00",
+      "submitted_at": "2026-10-09T08:01:32.047367+00:00"
+    },
     "https://radiologybusiness.com/topics/artificial-intelligence/fda-clears-ai-solution-aiding-mri-body-composition-assessments": {
       "date": "2026-10-06T05:52:49+00:00",
       "submitted_at": "2026-10-06T08:08:36.191809+00:00"
@@ -9,6 +13,10 @@
     "https://radiologybusiness.com/topics/artificial-intelligence/fda-clears-ai-tool-creates-3d-bone-visualizations-standard-mris": {
       "date": "2026-10-08T07:22:26+00:00",
       "submitted_at": "2026-10-08T09:30:28.484878+00:00"
+    },
+    "https://radiologybusiness.com/topics/artificial-intelligence/health-and-wellness-company-begins-selling-mammography-ai-directly-consumers-249": {
+      "date": "2026-10-09T06:45:07+00:00",
+      "submitted_at": "2026-10-09T08:01:32.047367+00:00"
     },
     "https://radiologybusiness.com/topics/artificial-intelligence/physicians-fire-back-against-hhs-secretarys-claim-ai-better-informed-human-docs": {
       "date": "2026-10-01T06:34:04+00:00",
@@ -49,6 +57,10 @@
     "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/radiologist-surgeon-general-nominee-advances-full-senate": {
       "date": "2026-10-01T06:55:34+00:00",
       "submitted_at": "2026-10-02T19:54:00.539837+00:00"
+    },
+    "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/radiologists-criticize-congressmans-proposed-no-surprises-act-shakeup": {
+      "date": "2026-10-09T07:25:34+00:00",
+      "submitted_at": "2026-10-09T08:01:32.047367+00:00"
     },
     "https://radiologybusiness.com/topics/healthcare-management/healthcare-quality/how-radiology-department-drastically-reduced-incoming-calls-rest-hospital": {
       "date": "2026-10-02T06:17:03+00:00",
@@ -110,9 +122,17 @@
       "date": "2026-10-08T07:26:33+00:00",
       "submitted_at": "2026-10-08T09:30:28.484878+00:00"
     },
+    "https://radiologybusiness.com/topics/medical-imaging/womens-imaging/breast-imaging/maryland-mammography-law-turns-incidental-cardiac-findings-new-screening-opportunity": {
+      "date": "2026-10-08T21:53:39+00:00",
+      "submitted_at": "2026-10-09T08:01:32.047367+00:00"
+    },
     "https://radiologybusiness.com/topics/medical-imaging/womens-imaging/how-mass-general-slashed-delays-diagnostic-breast-imaging": {
       "date": "2026-10-08T07:40:10+00:00",
       "submitted_at": "2026-10-08T09:30:28.484878+00:00"
+    },
+    "https://radiologybusiness.com/topics/medical-imaging/womens-imaging/why-almost-40-women-surveyed-say-theyve-missed-recommended-mammogram": {
+      "date": "2026-10-09T06:40:01+00:00",
+      "submitted_at": "2026-10-09T08:01:32.047367+00:00"
     }
   }
 }
