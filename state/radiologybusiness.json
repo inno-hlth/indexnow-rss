@@ -34,10 +34,6 @@
       "date": "2026-10-21T22:16:44+00:00",
       "submitted_at": "2026-10-22T06:35:22.930177+00:00"
     },
-    "https://radiologybusiness.com/topics/artificial-intelligence/fda-clears-ai-solution-aiding-mri-body-composition-assessments": {
-      "date": "2026-10-06T05:52:49+00:00",
-      "submitted_at": "2026-10-06T08:08:36.191809+00:00"
-    },
     "https://radiologybusiness.com/topics/artificial-intelligence/fda-clears-ai-tool-assessing-breast-cancer-recurrence-risk-mri": {
       "date": "2026-10-19T10:07:01+00:00",
       "submitted_at": "2026-10-20T19:28:25.880789+00:00"
@@ -138,6 +134,10 @@
       "date": "2026-10-19T10:25:19+00:00",
       "submitted_at": "2026-10-19T10:45:48.331682+00:00"
     },
+    "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/cms-finalizes-2027-physician-fee-schedule-even-larger-conversion-factor-cuts": {
+      "date": "2026-11-05T08:04:50+00:00",
+      "submitted_at": "2026-11-05T09:46:29.122481+00:00"
+    },
     "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/company-developing-ultra-portable-x-ray-system-scores-24m-government-contract": {
       "date": "2026-10-07T06:32:05+00:00",
       "submitted_at": "2026-10-07T11:46:50.507867+00:00"
@@ -150,13 +150,13 @@
       "date": "2026-11-03T13:00:00+00:00",
       "submitted_at": "2026-11-03T16:24:59.437893+00:00"
     },
+    "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/medicare-finalizes-plan-slash-9b-imaging-spending-through-site-neutral-reforms": {
+      "date": "2026-11-05T07:45:28+00:00",
+      "submitted_at": "2026-11-05T09:46:29.122481+00:00"
+    },
     "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/more-3000-philips-fluoroscopy-systems-affected-fda-recall": {
       "date": "2026-10-29T16:46:30+00:00",
       "submitted_at": "2026-10-30T05:45:50.454322+00:00"
-    },
-    "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/nasdaq-threatens-radiology-vendor-delisting-stock-exchange": {
-      "date": "2026-10-06T06:00:06+00:00",
-      "submitted_at": "2026-10-06T08:08:36.191809+00:00"
     },
     "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/new-fda-approval-expands-embolization-options-peripheral-arterial-bleeding": {
       "date": "2026-10-29T20:36:22+00:00",
@@ -258,13 +258,13 @@
       "date": "2026-11-03T09:12:40+00:00",
       "submitted_at": "2026-11-03T16:24:59.437893+00:00"
     },
+    "https://radiologybusiness.com/topics/healthcare-management/legal-news/state-sues-radiologist-claiming-he-ran-ponzi-ai-scheme-bilk-5m-physicians-and-family": {
+      "date": "2026-11-05T04:38:22+00:00",
+      "submitted_at": "2026-11-05T09:46:29.122481+00:00"
+    },
     "https://radiologybusiness.com/topics/healthcare-management/mergers-and-acquisitions/capitol-imaging-services-expands-south-florida-acquiring-4-centers": {
       "date": "2026-10-21T07:00:32+00:00",
       "submitted_at": "2026-10-21T11:07:48.420612+00:00"
-    },
-    "https://radiologybusiness.com/topics/healthcare-management/mergers-and-acquisitions/ge-healthcare-acquire-radiopharma-firm-sofie-biosciences-945m": {
-      "date": "2026-10-06T06:16:38+00:00",
-      "submitted_at": "2026-10-06T08:08:36.191809+00:00"
     },
     "https://radiologybusiness.com/topics/healthcare-management/mergers-and-acquisitions/investment-firm-acquires-ai-platform-blackford-analysis-bayer": {
       "date": "2026-10-12T06:34:03+00:00",
@@ -273,10 +273,6 @@
     "https://radiologybusiness.com/topics/healthcare-management/mergers-and-acquisitions/radiology-partners-clears-key-hurdle-plan-expand-overseas": {
       "date": "2026-10-14T07:25:06+00:00",
       "submitted_at": "2026-10-14T10:17:42.961404+00:00"
-    },
-    "https://radiologybusiness.com/topics/healthcare-management/mergers-and-acquisitions/radiology-partners-seeks-485m-term-loan-fuel-teleradiology-acquisition": {
-      "date": "2026-10-06T06:12:20+00:00",
-      "submitted_at": "2026-10-06T08:08:36.191809+00:00"
     },
     "https://radiologybusiness.com/topics/healthcare-management/mergers-and-acquisitions/radnet-acquire-teleradiology-provider-onrad-350m-deal": {
       "date": "2026-10-26T22:15:26+00:00",
@@ -337,6 +333,10 @@
     "https://radiologybusiness.com/topics/medical-imaging/interventional-radiology/radiology-trainees-often-fall-short-informed-consent-processes-ir-procedures": {
       "date": "2026-10-23T00:38:54+00:00",
       "submitted_at": "2026-10-23T08:45:08.041625+00:00"
+    },
+    "https://radiologybusiness.com/topics/medical-imaging/interventional-radiology/synchronous-biopsy-and-ablation-offer-one-session-approach-lung-nodules": {
+      "date": "2026-11-05T01:27:06+00:00",
+      "submitted_at": "2026-11-05T09:46:29.122481+00:00"
     },
     "https://radiologybusiness.com/topics/medical-imaging/magnetic-resonance-imaging-mri/alterations-brain-connectivity-linked-anxiety-adolescents-mri-study-finds": {
       "date": "2026-10-12T22:31:18+00:00",
@@ -409,6 +409,10 @@
     "https://radiologybusiness.com/topics/medical-imaging/womens-imaging/nearly-all-breast-cancer-survivors-would-recommend-contrast-enhanced-mammography": {
       "date": "2026-10-19T21:06:02+00:00",
       "submitted_at": "2026-10-20T15:16:08.918763+00:00"
+    },
+    "https://radiologybusiness.com/topics/medical-imaging/womens-imaging/routine-mammograms-offer-limited-benefit-after-double-mastectomy": {
+      "date": "2026-11-05T01:24:29+00:00",
+      "submitted_at": "2026-11-05T09:46:29.122481+00:00"
     },
     "https://radiologybusiness.com/topics/medical-imaging/womens-imaging/solis-mammography-expanding-joint-venture-partnership-jefferson-health": {
       "date": "2026-11-04T11:35:22+00:00",
