@@ -66,10 +66,6 @@
       "date": "2026-10-23T09:43:18+00:00",
       "submitted_at": "2026-10-23T14:03:01.267491+00:00"
     },
-    "https://radiologybusiness.com/topics/artificial-intelligence/researchers-develop-way-adapting-adult-radiology-ai-models-pediatric-population": {
-      "date": "2026-10-14T08:34:30+00:00",
-      "submitted_at": "2026-10-14T10:17:42.961404+00:00"
-    },
     "https://radiologybusiness.com/topics/artificial-intelligence/two-weeks-rebuild-radiology-services-how-prime-healthcare-renovated-reading-ris-and-rcm": {
       "date": "2026-10-29T03:21:46+00:00",
       "submitted_at": "2026-10-29T08:11:47.654177+00:00"
@@ -97,6 +93,10 @@
     "https://radiologybusiness.com/topics/healthcare-management/healthcare-economics/advanced-imaging-volumes-help-lumexa-imaging-return-profitability": {
       "date": "2026-11-11T22:17:01+00:00",
       "submitted_at": "2026-11-11T22:44:10.334246+00:00"
+    },
+    "https://radiologybusiness.com/topics/healthcare-management/healthcare-economics/lumexa-imaging-expands-illinois-new-joint-venture": {
+      "date": "2026-11-13T08:02:24+00:00",
+      "submitted_at": "2026-11-13T15:23:16.613220+00:00"
     },
     "https://radiologybusiness.com/topics/healthcare-management/healthcare-economics/radiologists-remain-among-employers-5-most-requested-specialists-staffing-firm-says": {
       "date": "2026-10-21T07:12:54+00:00",
@@ -178,6 +178,10 @@
       "date": "2026-10-22T08:15:33+00:00",
       "submitted_at": "2026-10-22T12:27:45.501877+00:00"
     },
+    "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/radiology-groups-call-congress-make-4-fixes-final-physician-fee-schedule": {
+      "date": "2026-11-13T08:08:40+00:00",
+      "submitted_at": "2026-11-13T15:23:16.613220+00:00"
+    },
     "https://radiologybusiness.com/topics/healthcare-management/healthcare-policy/stanford-top-radiology-research-funding-182m-2012": {
       "date": "2026-11-06T07:22:07+00:00",
       "submitted_at": "2026-11-06T18:12:14.181057+00:00"
@@ -210,10 +214,6 @@
       "date": "2026-11-06T18:09:31+00:00",
       "submitted_at": "2026-11-06T23:10:06.468105+00:00"
     },
-    "https://radiologybusiness.com/topics/healthcare-management/healthcare-staffing/misleading-claims-about-imaging-could-have-damaging-ripple-effect-radiology-experts-warn": {
-      "date": "2026-10-14T08:57:42+00:00",
-      "submitted_at": "2026-10-14T10:17:42.961404+00:00"
-    },
     "https://radiologybusiness.com/topics/healthcare-management/healthcare-staffing/nevada-hospital-launches-residency-program-address-radiologist-shortage": {
       "date": "2026-10-21T22:36:45+00:00",
       "submitted_at": "2026-10-22T06:35:22.930177+00:00"
@@ -221,10 +221,6 @@
     "https://radiologybusiness.com/topics/healthcare-management/healthcare-staffing/site-radiologist-coverage-linked-faster-emergency-ct-reporting": {
       "date": "2026-11-02T01:36:31+00:00",
       "submitted_at": "2026-11-02T08:20:21.727975+00:00"
-    },
-    "https://radiologybusiness.com/topics/healthcare-management/leadership/american-college-radiology-names-2027-gold-medal-winners": {
-      "date": "2026-10-14T07:39:17+00:00",
-      "submitted_at": "2026-10-14T10:17:42.961404+00:00"
     },
     "https://radiologybusiness.com/topics/healthcare-management/leadership/food-insecurity-common-among-residents-radiology-and-other-specialties": {
       "date": "2026-10-29T06:07:30+00:00",
@@ -241,6 +237,10 @@
     "https://radiologybusiness.com/topics/healthcare-management/leadership/radiologists-often-suffer-repetitive-stress-injuries-pacs-use": {
       "date": "2026-11-02T08:27:35+00:00",
       "submitted_at": "2026-11-02T18:40:03.769058+00:00"
+    },
+    "https://radiologybusiness.com/topics/healthcare-management/leadership/radiology-business-management-association-launching-new-imaging-executive-credential": {
+      "date": "2026-11-13T07:55:22+00:00",
+      "submitted_at": "2026-11-13T15:23:16.613220+00:00"
     },
     "https://radiologybusiness.com/topics/healthcare-management/leadership/study-links-leadership-behavior-radiologist-turnover": {
       "date": "2026-10-15T06:14:15+00:00",
@@ -293,10 +293,6 @@
     "https://radiologybusiness.com/topics/healthcare-management/mergers-and-acquisitions/capitol-imaging-services-expands-south-florida-acquiring-4-centers": {
       "date": "2026-10-21T07:00:32+00:00",
       "submitted_at": "2026-10-21T11:07:48.420612+00:00"
-    },
-    "https://radiologybusiness.com/topics/healthcare-management/mergers-and-acquisitions/radiology-partners-clears-key-hurdle-plan-expand-overseas": {
-      "date": "2026-10-14T07:25:06+00:00",
-      "submitted_at": "2026-10-14T10:17:42.961404+00:00"
     },
     "https://radiologybusiness.com/topics/healthcare-management/mergers-and-acquisitions/radnet-acquire-teleradiology-provider-onrad-350m-deal": {
       "date": "2026-10-26T22:15:26+00:00",
