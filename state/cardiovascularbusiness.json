@@ -70,10 +70,6 @@
       "date": "2026-10-20T16:47:07+00:00",
       "submitted_at": "2026-10-20T19:28:24.285190+00:00"
     },
-    "https://cardiovascularbusiness.com/topics/cardiac-imaging/researchers-bring-go-ccta-scans-underserved-communities": {
-      "date": "2026-10-08T19:17:11+00:00",
-      "submitted_at": "2026-10-08T21:51:54.841675+00:00"
-    },
     "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/ai-ecg-analysis-offers-heart-transplant-rejection-warnings": {
       "date": "2026-10-20T18:09:56+00:00",
       "submitted_at": "2026-10-20T22:33:36.276508+00:00"
@@ -81,6 +77,10 @@
     "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/heart-surgeons-now-earn-more-1-million-year": {
       "date": "2026-10-16T18:27:54+00:00",
       "submitted_at": "2026-10-16T21:29:25.002889+00:00"
+    },
+    "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/heart-surgery-outperforms-tavr-new-5-year-study-young-low-risk-patients": {
+      "date": "2026-11-12T17:08:50+00:00",
+      "submitted_at": "2026-11-13T00:21:09.101748+00:00"
     },
     "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/heart-surgery-performed-stage-during-cardiology-conference": {
       "date": "2026-10-26T17:11:46+00:00",
@@ -101,10 +101,6 @@
     "https://cardiovascularbusiness.com/topics/clinical/heart-failure/fda-approved-heart-medication-may-be-wonder-drug-protects-against-diabetes-blood-clots-and-more": {
       "date": "2026-10-30T17:18:04+00:00",
       "submitted_at": "2026-10-30T22:11:50.092997+00:00"
-    },
-    "https://cardiovascularbusiness.com/topics/clinical/heart-failure/heartmate-3-lvad-linked-16-risk-stroke-other-neurological-issues-what-heart-failure-specialists": {
-      "date": "2026-10-08T16:53:15+00:00",
-      "submitted_at": "2026-10-08T21:51:54.841675+00:00"
     },
     "https://cardiovascularbusiness.com/topics/clinical/heart-failure/new-heart-failure-data-suggest-some-healthcare-disparities-are-getting-worse-time-goes": {
       "date": "2026-11-02T14:00:00+00:00",
@@ -138,13 +134,13 @@
       "date": "2026-11-03T14:00:00+00:00",
       "submitted_at": "2026-11-03T16:24:58.501801+00:00"
     },
+    "https://cardiovascularbusiness.com/topics/clinical/heart-health/glp-1-drugs/semaglutide-linked-lower-afib-risk-other-glp-1-drugs-appear-fall-short": {
+      "date": "2026-11-12T20:05:06+00:00",
+      "submitted_at": "2026-11-13T00:21:09.101748+00:00"
+    },
     "https://cardiovascularbusiness.com/topics/clinical/heart-health/nearly-half-duty-firefighter-deaths-are-related-heart": {
       "date": "2026-10-22T20:14:47+00:00",
       "submitted_at": "2026-10-22T23:52:29.743169+00:00"
-    },
-    "https://cardiovascularbusiness.com/topics/clinical/heart-health/rapture-workout-supplement-recalled-fda-heart-attack": {
-      "date": "2026-10-08T14:17:59+00:00",
-      "submitted_at": "2026-10-08T16:57:21.489792+00:00"
     },
     "https://cardiovascularbusiness.com/topics/clinical/heart-health/some-activity-better-none-cardiologists-should-urge-all-heart-patients-exercise": {
       "date": "2026-10-19T18:22:36+00:00",
@@ -266,6 +262,10 @@
       "date": "2026-11-10T20:43:10+00:00",
       "submitted_at": "2026-11-11T01:28:41.258401+00:00"
     },
+    "https://cardiovascularbusiness.com/topics/clinical/pharmaceutics/researcher-shares-key-insights-after-zeus-trial-delivers-neutral-result": {
+      "date": "2026-11-12T21:05:32+00:00",
+      "submitted_at": "2026-11-13T00:21:09.101748+00:00"
+    },
     "https://cardiovascularbusiness.com/topics/clinical/pulmonary-embolism/fda-clears-new-pe-thrombectomy-technologies": {
       "date": "2026-10-15T14:00:00+00:00",
       "submitted_at": "2026-10-15T22:16:15.982060+00:00"
@@ -366,10 +366,6 @@
       "date": "2026-10-12T21:13:50+00:00",
       "submitted_at": "2026-10-13T01:31:59.820849+00:00"
     },
-    "https://cardiovascularbusiness.com/topics/healthcare-management/healthcare-quality/worlds-best-hospitals-heart-surgery": {
-      "date": "2026-10-09T19:25:02+00:00",
-      "submitted_at": "2026-10-10T00:03:31.037898+00:00"
-    },
     "https://cardiovascularbusiness.com/topics/healthcare-management/legal-news/heartflow-sues-ai-rival-elucid-over-alleged-ip-violations": {
       "date": "2026-10-26T19:38:20+00:00",
       "submitted_at": "2026-10-26T21:19:19.531120+00:00"
@@ -381,6 +377,10 @@
     "https://cardiovascularbusiness.com/topics/management/policy-regulations/cardiology-recalls/combination-blood-pressure-drug-recalled-after-failed-quality-test": {
       "date": "2026-11-03T16:42:52+00:00",
       "submitted_at": "2026-11-03T21:53:36.615703+00:00"
+    },
+    "https://cardiovascularbusiness.com/topics/management/policy-regulations/cardiology-recalls/more-80000-insulin-pumps-recalled-due-safety-risk-patients-should-follow-latest-instructions": {
+      "date": "2026-11-12T21:53:57+00:00",
+      "submitted_at": "2026-11-13T00:21:09.101748+00:00"
     },
     "https://cardiovascularbusiness.com/topics/medical-imaging/diagnostic-screening/ccta-screening-shows-potential-more-research-necessary": {
       "date": "2026-10-26T19:40:45+00:00",
