@@ -30,17 +30,9 @@
       "date": "2026-10-23T16:31:44+00:00",
       "submitted_at": "2026-10-23T21:33:43.670562+00:00"
     },
-    "https://cardiovascularbusiness.com/topics/cardiac-imaging/cath-lab/blood-thinner-recalled-due-contamination-risk": {
-      "date": "2026-10-14T21:10:19+00:00",
-      "submitted_at": "2026-10-14T22:38:31.513069+00:00"
-    },
     "https://cardiovascularbusiness.com/topics/cardiac-imaging/computed-tomography-ct/cleerlys-ai-powered-plaque-assessments-outperform-cardiac-stress-testing": {
       "date": "2026-11-13T19:30:00+00:00",
       "submitted_at": "2026-11-14T01:39:39.720474+00:00"
-    },
-    "https://cardiovascularbusiness.com/topics/cardiac-imaging/computed-tomography-ct/coronary-plaque-imaging-keeps-improving-thanks-advanced-ai-photon-counting-ct": {
-      "date": "2026-10-19T18:51:46+00:00",
-      "submitted_at": "2026-10-20T00:40:10.026472+00:00"
     },
     "https://cardiovascularbusiness.com/topics/cardiac-imaging/computed-tomography-ct/florida-county-launch-nations-first-publicly-funded-ccta-screening-program": {
       "date": "2026-11-17T19:37:23+00:00",
@@ -58,10 +50,6 @@
       "date": "2026-11-10T23:57:24+00:00",
       "submitted_at": "2026-11-11T22:44:08.655291+00:00"
     },
-    "https://cardiovascularbusiness.com/topics/cardiac-imaging/magnetic-resonance-imaging-mri/exploring-major-trends-cardiac-mri": {
-      "date": "2026-10-14T19:33:26+00:00",
-      "submitted_at": "2026-10-14T22:38:31.513069+00:00"
-    },
     "https://cardiovascularbusiness.com/topics/cardiac-imaging/nuclear-cardiology/incoming-asnc-president-wants-expand-access-cardiac-pet": {
       "date": "2026-10-20T16:47:07+00:00",
       "submitted_at": "2026-10-20T19:28:24.285190+00:00"
@@ -69,6 +57,10 @@
     "https://cardiovascularbusiness.com/topics/clinical/acute-coronary-syndromes/acc-president-points-continued-importance-studying-coronary-inflammation": {
       "date": "2026-11-17T16:00:00+00:00",
       "submitted_at": "2026-11-18T02:16:04.571690+00:00"
+    },
+    "https://cardiovascularbusiness.com/topics/clinical/acute-coronary-syndromes/not-necessary-everyone-heart-experts-oppose-cac-screening-general-public": {
+      "date": "2026-11-18T19:44:38+00:00",
+      "submitted_at": "2026-11-19T01:02:18.958247+00:00"
     },
     "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/ai-ecg-analysis-offers-heart-transplant-rejection-warnings": {
       "date": "2026-10-20T18:09:56+00:00",
@@ -141,10 +133,6 @@
     "https://cardiovascularbusiness.com/topics/clinical/heart-health/some-activity-better-none-cardiologists-should-urge-all-heart-patients-exercise": {
       "date": "2026-10-19T18:22:36+00:00",
       "submitted_at": "2026-10-19T21:39:27.266294+00:00"
-    },
-    "https://cardiovascularbusiness.com/topics/clinical/heart-health/weightlifters-do-significant-heart-damage-when-taking-anabolic-steroids-there-hope": {
-      "date": "2026-10-14T20:38:30+00:00",
-      "submitted_at": "2026-10-14T22:38:31.513069+00:00"
     },
     "https://cardiovascularbusiness.com/topics/clinical/heart-rhythm/fda-clears-afib-detection-feature-advanced-pulse-oximetry-system": {
       "date": "2026-10-19T20:49:02+00:00",
@@ -266,10 +254,6 @@
       "date": "2026-11-12T21:05:32+00:00",
       "submitted_at": "2026-11-13T00:21:09.101748+00:00"
     },
-    "https://cardiovascularbusiness.com/topics/clinical/pulmonary-embolism/fda-clears-new-pe-thrombectomy-technologies": {
-      "date": "2026-10-15T14:00:00+00:00",
-      "submitted_at": "2026-10-15T22:16:15.982060+00:00"
-    },
     "https://cardiovascularbusiness.com/topics/clinical/stroke/fda-approves-first-class-drug-secondary-stroke-prevention": {
       "date": "2026-11-13T18:30:00+00:00",
       "submitted_at": "2026-11-13T21:28:53.844422+00:00"
@@ -334,6 +318,10 @@
       "date": "2026-11-02T16:26:00+00:00",
       "submitted_at": "2026-11-02T18:40:02.139978+00:00"
     },
+    "https://cardiovascularbusiness.com/topics/clinical/structural-heart-disease/tavr/tavr-trilogy-valve-lvad-patients-ar": {
+      "date": "2026-11-18T17:45:35+00:00",
+      "submitted_at": "2026-11-19T01:02:18.958247+00:00"
+    },
     "https://cardiovascularbusiness.com/topics/clinical/vascular-endovascular/ai-startup-raises-62m-robotic-endovascular-interventions": {
       "date": "2026-11-16T20:00:00+00:00",
       "submitted_at": "2026-11-17T02:45:17.065172+00:00"
@@ -361,6 +349,10 @@
     "https://cardiovascularbusiness.com/topics/healthcare-management/healthcare-policy/fda-clears-minimeds-tubeless-insulin-pump": {
       "date": "2026-11-17T17:46:06+00:00",
       "submitted_at": "2026-11-18T02:16:04.571690+00:00"
+    },
+    "https://cardiovascularbusiness.com/topics/healthcare-management/healthcare-policy/fda-wants-cholesterol-drug-market": {
+      "date": "2026-11-18T20:56:47+00:00",
+      "submitted_at": "2026-11-19T01:02:18.958247+00:00"
     },
     "https://cardiovascularbusiness.com/topics/healthcare-management/healthcare-policy/report-says-new-cms-payment-model-heart-failure-remarkably-bad-and-could-harm-patients": {
       "date": "2026-10-29T15:00:00+00:00",
@@ -409,6 +401,10 @@
     "https://cardiovascularbusiness.com/topics/professional-associations/cardiology-associations/society-thoracic-surgeons-sts/hillary-clinton-society-thoracic-surgeons-sts-2027": {
       "date": "2026-10-22T19:34:11+00:00",
       "submitted_at": "2026-10-22T20:49:14.495260+00:00"
+    },
+    "https://cardiovascularbusiness.com/topics/professional-associations/healthcare-associations/american-hospital-association-aha/ai-lpa-aha-president-cardiologys-hottest-topics": {
+      "date": "2026-11-18T20:46:34+00:00",
+      "submitted_at": "2026-11-19T01:02:18.958247+00:00"
     },
     "https://cardiovascularbusiness.com/topics/womens-heart-health/new-way-think-about-heart-health-women": {
       "date": "2026-10-27T17:23:16+00:00",
