@@ -2,10 +2,6 @@
   "host": "radiologybusiness.com",
   "site": "radiologybusiness",
   "submitted": {
-    "https://radiologybusiness.com/sponsored/1068/sectra/surgeon-pathologist-digital-pathology-day-analog-pathologys-night": {
-      "date": "2026-10-26T15:19:56+00:00",
-      "submitted_at": "2026-10-26T16:52:00.231789+00:00"
-    },
     "https://radiologybusiness.com/sponsored/1266/bayer/roundtable-how-automated-ct-contrast-dosing-making-real-difference-academic-medical-center": {
       "date": "2026-11-04T13:30:00+00:00",
       "submitted_at": "2026-11-04T16:35:28.362216+00:00"
@@ -29,6 +25,10 @@
     "https://radiologybusiness.com/topics/artificial-intelligence/fda-clears-new-ai-software-brain-aneurysm-detection": {
       "date": "2026-11-16T07:41:09+00:00",
       "submitted_at": "2026-11-16T09:40:22.114362+00:00"
+    },
+    "https://radiologybusiness.com/topics/artificial-intelligence/fda-clears-radnet-ai-tool-predicting-five-year-breast-cancer-risk-routine-mammograms": {
+      "date": "2026-11-25T08:43:26+00:00",
+      "submitted_at": "2026-11-25T17:47:18.878835+00:00"
     },
     "https://radiologybusiness.com/topics/artificial-intelligence/large-language-models-show-potential-mri-protocoling": {
       "date": "2026-11-10T00:10:55+00:00",
@@ -342,6 +342,10 @@
       "date": "2026-11-10T20:51:58+00:00",
       "submitted_at": "2026-11-11T16:14:20.320560+00:00"
     },
+    "https://radiologybusiness.com/topics/healthcare-management/mergers-and-acquisitions/rad-partners-finalizes-acquisition-overseas-teleradiology-outfit": {
+      "date": "2026-11-25T08:52:14+00:00",
+      "submitted_at": "2026-11-25T17:47:18.878835+00:00"
+    },
     "https://radiologybusiness.com/topics/healthcare-management/mergers-and-acquisitions/radnet-acquire-teleradiology-provider-onrad-350m-deal": {
       "date": "2026-10-26T22:15:26+00:00",
       "submitted_at": "2026-10-27T00:40:21.998361+00:00"
@@ -385,10 +389,6 @@
     "https://radiologybusiness.com/topics/medical-imaging/interventional-radiology/fda-clears-ai-powered-intravascular-ultrasound-imaging-platform": {
       "date": "2026-11-06T07:14:14+00:00",
       "submitted_at": "2026-11-06T11:22:33.386440+00:00"
-    },
-    "https://radiologybusiness.com/topics/medical-imaging/interventional-radiology/interventional-radiology-underrepresented-cancer-guideline-development": {
-      "date": "2026-10-26T08:27:09+00:00",
-      "submitted_at": "2026-10-26T10:23:36.019791+00:00"
     },
     "https://radiologybusiness.com/topics/medical-imaging/interventional-radiology/society-interventional-radiology-urges-trauma-centers-integrate-irs-hemorrhage-care": {
       "date": "2026-11-09T23:09:50+00:00",
@@ -438,10 +438,6 @@
       "date": "2026-11-14T17:16:50+00:00",
       "submitted_at": "2026-11-16T09:40:22.114362+00:00"
     },
-    "https://radiologybusiness.com/topics/medical-imaging/womens-imaging/3d-mammographys-screening-performance-improves-patient-age": {
-      "date": "2026-10-26T08:43:52+00:00",
-      "submitted_at": "2026-10-26T10:23:36.019791+00:00"
-    },
     "https://radiologybusiness.com/topics/medical-imaging/womens-imaging/expedited-pathway-mammo-recalls-nearly-halves-diagnostic-timeline": {
       "date": "2026-10-26T22:22:36+00:00",
       "submitted_at": "2026-10-27T00:40:21.998361+00:00"
@@ -461,10 +457,6 @@
     "https://radiologybusiness.com/topics/patient-care/care-delivery/medical-imaging-linked-higher-brain-tumor-risk-children": {
       "date": "2026-11-19T19:13:37+00:00",
       "submitted_at": "2026-11-20T07:36:57.522463+00:00"
-    },
-    "https://radiologybusiness.com/topics/patient-care/university-launch-1-largest-mobile-cancer-screening-fleets-us": {
-      "date": "2026-10-26T08:39:36+00:00",
-      "submitted_at": "2026-10-26T10:23:36.019791+00:00"
     }
   }
 }
