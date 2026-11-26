@@ -46,10 +46,6 @@
       "date": "2026-11-10T18:00:12+00:00",
       "submitted_at": "2026-11-10T21:38:03.988268+00:00"
     },
-    "https://cardiovascularbusiness.com/topics/cardiac-imaging/ep-lab/medtronic-gains-ce-mark-next-gen-portfolio-conduction-system-pacemakers": {
-      "date": "2026-10-20T20:47:52+00:00",
-      "submitted_at": "2026-10-20T22:33:36.276508+00:00"
-    },
     "https://cardiovascularbusiness.com/topics/cardiac-imaging/fda-clears-siemens-healthineers-software-ccta-based-pci-planning": {
       "date": "2026-11-20T17:47:47+00:00",
       "submitted_at": "2026-11-20T22:44:42.357982+00:00"
@@ -70,10 +66,6 @@
       "date": "2026-11-18T19:44:38+00:00",
       "submitted_at": "2026-11-19T01:02:18.958247+00:00"
     },
-    "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/ai-ecg-analysis-offers-heart-transplant-rejection-warnings": {
-      "date": "2026-10-20T18:09:56+00:00",
-      "submitted_at": "2026-10-20T22:33:36.276508+00:00"
-    },
     "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/heart-surgery-outperforms-tavr-new-5-year-study-young-low-risk-patients": {
       "date": "2026-11-12T17:08:50+00:00",
       "submitted_at": "2026-11-13T00:21:09.101748+00:00"
@@ -81,10 +73,6 @@
     "https://cardiovascularbusiness.com/topics/clinical/cardiac-surgery/heart-surgery-performed-stage-during-cardiology-conference": {
       "date": "2026-10-26T17:11:46+00:00",
       "submitted_at": "2026-10-26T21:19:19.531120+00:00"
-    },
-    "https://cardiovascularbusiness.com/topics/clinical/heart-failure/ai-flags-heart-failure-patients-risk-functional-decline": {
-      "date": "2026-10-20T19:53:31+00:00",
-      "submitted_at": "2026-10-20T22:33:36.276508+00:00"
     },
     "https://cardiovascularbusiness.com/topics/clinical/heart-failure/fda-approved-heart-medication-may-be-wonder-drug-protects-against-diabetes-blood-clots-and-more": {
       "date": "2026-10-30T17:18:04+00:00",
@@ -158,6 +146,10 @@
       "date": "2026-11-09T20:30:46+00:00",
       "submitted_at": "2026-11-10T00:27:05.214107+00:00"
     },
+    "https://cardiovascularbusiness.com/topics/clinical/interventional-cardiology/boston-scientific-updates-instructions-ivus-catheters-minimize-risk": {
+      "date": "2026-11-25T18:42:18+00:00",
+      "submitted_at": "2026-11-26T01:31:24.647587+00:00"
+    },
     "https://cardiovascularbusiness.com/topics/clinical/interventional-cardiology/both-fda-approved-renal-denervation-systems-linked-positive-real-world-outcomes": {
       "date": "2026-11-04T20:02:57+00:00",
       "submitted_at": "2026-11-05T02:28:52.452075+00:00"
@@ -169,10 +161,6 @@
     "https://cardiovascularbusiness.com/topics/clinical/interventional-cardiology/fda-approves-abbott-device-pvl-heart-valve-surgery": {
       "date": "2026-10-28T16:03:14+00:00",
       "submitted_at": "2026-10-28T18:20:16.908038+00:00"
-    },
-    "https://cardiovascularbusiness.com/topics/clinical/interventional-cardiology/fda-approves-pascal-precision-system-edwards-lifesciences-tricuspid-valve-repair": {
-      "date": "2026-10-21T14:17:36+00:00",
-      "submitted_at": "2026-10-21T15:57:27.839914+00:00"
     },
     "https://cardiovascularbusiness.com/topics/clinical/interventional-cardiology/fda-class-i-recall-heart-valve-delivery-system": {
       "date": "2026-11-05T21:16:43+00:00",
@@ -210,6 +198,10 @@
       "date": "2026-10-21T20:27:30+00:00",
       "submitted_at": "2026-10-21T23:07:37.172781+00:00"
     },
+    "https://cardiovascularbusiness.com/topics/clinical/interventional-cardiology/newest-ivl-catheter-linked-improvements-efficiency-deliverability": {
+      "date": "2026-11-25T21:03:27+00:00",
+      "submitted_at": "2026-11-26T01:31:24.647587+00:00"
+    },
     "https://cardiovascularbusiness.com/topics/clinical/interventional-cardiology/pci-and-cabg-fail-improve-survival-odds-patients-stable-coronary-artery-disease": {
       "date": "2026-11-10T17:02:01+00:00",
       "submitted_at": "2026-11-11T01:28:41.258401+00:00"
@@ -221,6 +213,10 @@
     "https://cardiovascularbusiness.com/topics/clinical/interventional-cardiology/scai-refines-cardiogenic-shock-classifications": {
       "date": "2026-11-06T21:21:19+00:00",
       "submitted_at": "2026-11-06T23:10:05.138104+00:00"
+    },
+    "https://cardiovascularbusiness.com/topics/clinical/interventional-cardiology/topaz-transcatheter-tricuspid-valve-reduced-regurgitation-98-patients": {
+      "date": "2026-11-24T18:00:25+00:00",
+      "submitted_at": "2026-11-26T01:31:24.647587+00:00"
     },
     "https://cardiovascularbusiness.com/topics/clinical/pharmaceutics/blood-pressure-drug-recalled-due-risk-patient-harm": {
       "date": "2026-11-17T20:33:57+00:00",
@@ -334,6 +330,10 @@
       "date": "2026-11-05T21:57:48+00:00",
       "submitted_at": "2026-11-05T23:14:12.696283+00:00"
     },
+    "https://cardiovascularbusiness.com/topics/healthcare-management/healthcare-economics/stroke-related-healthcare-costs-us-expected-reach-423b-year": {
+      "date": "2026-11-25T17:57:40+00:00",
+      "submitted_at": "2026-11-26T01:31:24.647587+00:00"
+    },
     "https://cardiovascularbusiness.com/topics/healthcare-management/healthcare-policy/american-college-cardiology-still-concerned-2027-medicare-physician-fee-schedule": {
       "date": "2026-11-19T22:05:34+00:00",
       "submitted_at": "2026-11-20T00:22:35.739475+00:00"
@@ -361,6 +361,10 @@
     "https://cardiovascularbusiness.com/topics/healthcare-management/leadership/new-hampshire-cardiologist-killed-fatal-car-crash": {
       "date": "2026-11-16T22:09:57+00:00",
       "submitted_at": "2026-11-17T02:45:17.065172+00:00"
+    },
+    "https://cardiovascularbusiness.com/topics/healthcare-management/legal-news/cardiologist-accused-committing-89m-healthcare-fraud-can-no-longer-practice-rhode-island": {
+      "date": "2026-11-25T20:48:10+00:00",
+      "submitted_at": "2026-11-26T01:31:24.647587+00:00"
     },
     "https://cardiovascularbusiness.com/topics/healthcare-management/legal-news/heartflow-sues-ai-rival-elucid-over-alleged-ip-violations": {
       "date": "2026-10-26T19:38:20+00:00",
